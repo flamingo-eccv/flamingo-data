@@ -1,2 +1,3 @@
 # flamingo-data
-Repo for hosting and sharing flamingo data for paper accepted at eccv
+Repo to share flamingo data for paper accepted at eccv
+A part of the dataset used will be hosted here soon.
