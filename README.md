@@ -1,5 +1,6 @@
 # flamingo-data
-Repo to share data for the paper "Document Structure Extraction using Prior based High Resolution Hierarchical Semantic Segmentation" accepted at ECCV 2020.
+Repo to share data for the paper "Document Structure Extraction using Prior based High Resolution Hierarchical Semantic Segmentation" accepted at ECCV 2020:
+[Paper link](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123730647.pdf)
 
 A part of the dataset is now available here: [Data link](https://github.com/forms-data-structures/forms-data)
 
