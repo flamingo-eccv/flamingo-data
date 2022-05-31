@@ -1,4 +1,4 @@
-# flamingo-data
+# Forms Dataset with Hierarchical Annotations 
 Repo to share the **largest yet annotated Forms data** for the paper "Document Structure Extraction using Prior based High Resolution Hierarchical Semantic Segmentation" accepted at ECCV 2020:
 [Paper link](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123730647.pdf)
 
